@@ -3,9 +3,9 @@
 ║                                                                               ║
 ║           📈 STOCK PRICE PREDICTION & SENTIMENT ANALYSIS 🤖                  ║
 ║                                                                               ║
-║        Advanced ML/DL Models for FTSE 100 Stock Market Forecasting          ║
+║        Advanced ML/DL Models for FTSE 100 Stock Market Forecasting            ║
 ║                                                                               ║
-║              ✨ Enhanced with AI | Python 3.13.2 | TensorFlow ✨            ║
+║              ✨ Enhanced with AI | Python 3.13.2 | TensorFlow ✨             ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -93,39 +93,39 @@ Stock-Prediction/
 ### 📊 Visualization
 ```
 ┌──────────────────────────────────────────┐
-│  matplotlib (3.10.8)  - Core plotting   │
-│  seaborn (0.13.2)     - Statistical viz │
-│  plotly (5.24.1)      - Interactive     │
-│  mplfinance (0.12.11) - Candlestick     │
+│  matplotlib (3.10.8)  - Core plotting    │
+│  seaborn (0.13.2)     - Statistical viz  │
+│  plotly (5.24.1)      - Interactive      │
+│  mplfinance (0.12.11) - Candlestick      │
 └──────────────────────────────────────────┘
 ```
 
 ### ⏱️ Time Series
 ```
 ┌────────────────────────────────────────────┐
-│  statsmodels (0.14.2) - ARIMA, SARIMA     │
-│  pmdarima (2.0.4)     - Auto ARIMA        │
-│  fbprophet (1.1.5)    - Facebook Prophet  │
+│  statsmodels (0.14.2) - ARIMA, SARIMA      │
+│  pmdarima (2.0.4)     - Auto ARIMA         │
+│  fbprophet (1.1.5)    - Facebook Prophet   │
 └────────────────────────────────────────────┘
 ```
 
 ### 🧠 Deep Learning
 ```
 ┌─────────────────────────────────────────────┐
-│  tensorflow (2.18.0)  - Deep learning      │
-│  keras (3.6.0)        - High-level API     │
-│  torch (2.4.1)        - PyTorch            │
+│  tensorflow (2.18.0)  - Deep learning       │
+│  keras (3.6.0)        - High-level API      │
+│  torch (2.4.1)        - PyTorch             │
 └─────────────────────────────────────────────┘
 ```
 
 ### 🤖 ML & NLP
 ```
 ┌────────────────────────────────────────────────┐
-│  scikit-learn (1.5.2)    - ML algorithms      │
-│  xgboost (2.1.3)         - Gradient boosting  │
-│  transformers (4.46.3)   - Hugging Face BERT  │
-│  nltk (3.9.1)            - Natural language   │
-│  spacy (3.8.1)           - NLP processing     │
+│  scikit-learn (1.5.2)    - ML algorithms       │
+│  xgboost (2.1.3)         - Gradient boosting   │
+│  transformers (4.46.3)   - Hugging Face BERT   │
+│  nltk (3.9.1)            - Natural language    │
+│  spacy (3.8.1)           - NLP processing      │
 └────────────────────────────────────────────────┘
 ```
 
@@ -342,26 +342,26 @@ BERT_Long_Text_Classification.ipynb / Sentiment_Analysis_and_Classifiers.ipynb
 ╔════════════════════════════════════════════════════════════════╗
 ║                    ⚠️  DISCLAIMER  ⚠️                         ║
 ║                                                                ║
-║  1. Educational Purpose Only                                 ║
-║     This project is for learning & research only. Do NOT     ║
-║     use for actual trading without professional advice.      ║
+║  1. Educational Purpose Only                                   ║
+║     This project is for learning & research only. Do NOT       ║
+║     use for actual trading without professional advice.        ║
 ║                                                                ║
-║  2. Historical Data                                           ║
-║     Analysis covers 2010-2019 (pre-COVID era). Models may    ║
-║     not predict future market conditions accurately.         ║
+║  2. Historical Data                                            ║
+║     Analysis covers 2010-2019 (pre-COVID era). Models may      ║
+║     not predict future market conditions accurately.           ║
 ║                                                                ║
-║  3. Model Limitations                                         ║
-║     - Black Swan events cause model failures                 ║
-║     - Extreme volatility reduces accuracy                    ║
-║     - Market regime changes invalidate patterns             ║
+║  3. Model Limitations                                          ║
+║     - Black Swan events cause model failures                   ║
+║     - Extreme volatility reduces accuracy                      ║
+║     - Market regime changes invalidate patterns                ║
 ║                                                                ║
-║  4. Data Source                                              ║
-║     Dependent on Yahoo Finance accuracy & availability.      ║
-║     No warranty for data quality.                            ║
+║  4. Data Source                                                ║
+║     Dependent on Yahoo Finance accuracy & availability.        ║
+║     No warranty for data quality.                              ║
 ║                                                                ║
-║  5. No Financial Advice                                      ║
-║     Predictions are not investment recommendations.         ║
-║     Consult licensed financial advisors before trading.      ║
+║  5. No Financial Advice                                        ║
+║     Predictions are not investment recommendations.            ║
+║     Consult licensed financial advisors before trading.        ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -515,11 +515,11 @@ See LICENSE file for details.
 
 ```
 ┌─────────────────────────────────────────┐
-│        📊 PROJECT METRICS 📊            │
+│        📊 PROJECT METRICS 📊           │
 ├─────────────────────────────────────────┤
 │  Total Notebooks:          17           │
 │  Python Cells:           500+           │
-│  Data Points:       2.5M+ (2010-2019)  │
+│  Data Points:       2.5M+ (2010-2019)   │
 │  Models Implemented:      15            │
 │  Time Series Length:    2517 days       │
 │  Stocks Analyzed:         6 (FTSE 100)  │
@@ -546,7 +546,7 @@ See LICENSE file for details.
 ║                                                                   ║
 ║        🚀 Happy Forecasting! May your predictions be accurate 📈 ║
 ║                                                                   ║
-║              Python | AI | Finance | Open Source                 ║
+║              Python | AI | Finance | Open Source                  ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
